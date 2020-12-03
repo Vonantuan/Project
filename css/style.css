@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color: black;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-link{
+    color:black;
+    display: flex;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+#ty{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+
+a:hover{
+        text-decoration: none;
+}
+#sim_prod{
+    height: 100vh;
+    overflow-y: scroll;
+}
+/* #pr_img{
+    height: 100vh;
+    overflow-y: scroll;
+} */
+
+.newsletter{
+    display: none;
+    background: rgb(207, 225, 240);
+    border-radius: 20px;
+    color :rgb(161, 233, 243);
+    position: fixed;
+    width: 500px;
+    height: 30%;
+}
+.btn{
+    border-radius: 10px;
+}
+/* .card{
+    border: none;
+} */
+.container-fluid{
+    padding: 20px;
+}
+.card-header{
+    background-color: #a0bfa7;
+    border-radius:15px;
+}
+
+
